@@ -55,7 +55,7 @@ const students = [
 
 
   const studentsWithIds = students.map(student => [student.name, student.id])
-//   console.log(studentsWithIds)
+console.log(studentsWithIds)
 
   const studentsWithAges = students.map((student, index) => {
     let ages = [ 22, 25, 32];
@@ -72,4 +72,4 @@ const students = [
         name: student.name,
     }
   });
-  console.log(studentsIdName)
+  // console.log(studentsIdName)
