@@ -1,9 +1,3 @@
-/**
- * To run this file in Gitpod, use the 
- * command node destructuring.js in the terminal
- */
-
-
 // Destructuring arrays
 
 let ages = [ 30, 26, 27];
